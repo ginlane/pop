@@ -221,20 +221,26 @@
 		0B6BE74819FFD3B900762101 /* pop.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = pop.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0B6BE7E619FFD98100762101 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
 		0BA2A8F219FFDC7F00B28783 /* DynamicLibrary-iOS.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "DynamicLibrary-iOS.xcconfig"; sourceTree = "<group>"; };
+		3606F0C22CF0EB387E8AC270 /* Pods-pop-tests.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests.profile.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests/Pods-pop-tests.profile.xcconfig"; sourceTree = "<group>"; };
 		403DCBBC1783F4A000793AE1 /* libFBWebP.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFBWebP.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		408E6FF86BDD3F47FC44BF6A /* Pods-pop-tests.gcov.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests.gcov.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests/Pods-pop-tests.gcov.xcconfig"; sourceTree = "<group>"; };
+		4F4245BFB89B6239FE145E69 /* Pods-pop-tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests/Pods-pop-tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5E17BB1E17457345009842B6 /* POPCustomAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POPCustomAnimation.h; sourceTree = "<group>"; };
 		5E17BB1F17457345009842B6 /* POPCustomAnimation.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = POPCustomAnimation.mm; sourceTree = "<group>"; };
 		669428F41A009B6A00A420B0 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		669428F51A009B6A00A420B0 /* pop-embedded.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "pop-embedded.h"; sourceTree = "<group>"; };
 		68569BF4084F464294AFEBA1 /* libFBReachability.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFBReachability.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		7628E8427F4090DD496F92B1 /* Pods-pop-tests-osx.gcov.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests-osx.gcov.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests-osx/Pods-pop-tests-osx.gcov.xcconfig"; sourceTree = "<group>"; };
+		7BDD7D9C2D2C9AC55E295CD0 /* Pods-pop-tests-osx.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests-osx.release.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests-osx/Pods-pop-tests-osx.release.xcconfig"; sourceTree = "<group>"; };
+		7D469990AA7D05FB882F89FC /* Pods-pop-tests-osx.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests-osx.profile.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests-osx/Pods-pop-tests-osx.profile.xcconfig"; sourceTree = "<group>"; };
 		90AA30B618988BBE00E3BDF7 /* POPSpringSolver.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POPSpringSolver.h; sourceTree = "<group>"; };
+		9BBD2916A451976950B4C1F6 /* Pods-pop-tests-osx.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests-osx.debug.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests-osx/Pods-pop-tests-osx.debug.xcconfig"; sourceTree = "<group>"; };
 		B551F115E86E4C7CA0D92E78 /* libDoubleConversion.a */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = archive.ar; path = libDoubleConversion.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD1A8D5BCA37415F86519334 /* libCAres.a */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = archive.ar; path = libCAres.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4E7267217CE4436805A912B /* libFBCoreDataKit.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFBCoreDataKit.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		CD38BFD00B29456D9B40D640 /* Pods-pop-tests.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests.xcconfig"; path = "Pods/Pods-pop-tests.xcconfig"; sourceTree = "<group>"; };
+		C5794B0CC3DBDE8D02CF112A /* Pods-pop-tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-pop-tests/Pods-pop-tests.release.xcconfig"; sourceTree = "<group>"; };
 		D075ECD10B62441CBB9A90F6 /* libPods-pop-tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-pop-tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D411892A480A401FB4D1AA07 /* libPods-pop-tests-osx.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-pop-tests-osx.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D49ED131870840178CA788F1 /* Pods-pop-tests-osx.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pop-tests-osx.xcconfig"; path = "Pods/Pods-pop-tests-osx.xcconfig"; sourceTree = "<group>"; };
 		D52A06EC505A4B82B3BBD5E6 /* libEvent.a */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = archive.ar; path = libEvent.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5D894724A104C729754ABCA /* libGLog.a */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = archive.ar; path = libGLog.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC0AE12F16BC73CE001DA2CE /* POPAnimationExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POPAnimationExtras.h; sourceTree = "<group>"; };
@@ -283,7 +289,7 @@
 		EC70AC4318CCF4FC0067018C /* POPVector.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = POPVector.h; sourceTree = "<group>"; };
 		EC72875418E13348006EEE54 /* POPCustomAnimationTests.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = POPCustomAnimationTests.mm; sourceTree = "<group>"; };
 		EC7D2CFB1795AB3100E50A78 /* POPEaseInEaseOutAnimationTests.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = POPEaseInEaseOutAnimationTests.mm; sourceTree = "<group>"; };
-		EC7E319918C93D6500B38170 /* pop-tests-osx.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "pop-tests-osx.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC7E319918C93D6500B38170 /* pop-tests-osx.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "pop-tests-osx.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC7E319D18C93D6500B38170 /* pop-tests-osx-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "pop-tests-osx-Info.plist"; sourceTree = "<group>"; };
 		EC7E319F18C93D6500B38170 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EC7E31A318C93D6500B38170 /* pop-tests-OSX-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "pop-tests-OSX-Prefix.pch"; sourceTree = "<group>"; };
@@ -368,7 +374,7 @@
 		ECED421816F7D1FD00FFBEAC /* libFBNetworker.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFBNetworker.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECEED93A18C91AB600DD95F2 /* libOCMock.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libOCMock.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECEED93D18C91ACF00DD95F2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		ECF01ED318C92B7F009E0AD1 /* pop-tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "pop-tests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ECF01ED318C92B7F009E0AD1 /* pop-tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "pop-tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -432,6 +438,21 @@
 			path = "Dynamic Libraries";
 			sourceTree = "<group>";
 		};
+		4372557D5165714123EC6D70 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4F4245BFB89B6239FE145E69 /* Pods-pop-tests.debug.xcconfig */,
+				408E6FF86BDD3F47FC44BF6A /* Pods-pop-tests.gcov.xcconfig */,
+				C5794B0CC3DBDE8D02CF112A /* Pods-pop-tests.release.xcconfig */,
+				3606F0C22CF0EB387E8AC270 /* Pods-pop-tests.profile.xcconfig */,
+				9BBD2916A451976950B4C1F6 /* Pods-pop-tests-osx.debug.xcconfig */,
+				7628E8427F4090DD496F92B1 /* Pods-pop-tests-osx.gcov.xcconfig */,
+				7BDD7D9C2D2C9AC55E295CD0 /* Pods-pop-tests-osx.release.xcconfig */,
+				7D469990AA7D05FB882F89FC /* Pods-pop-tests-osx.profile.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		669428F31A009B6A00A420B0 /* pop-embedded */ = {
 			isa = PBXGroup;
 			children = (
@@ -450,8 +471,7 @@
 				ECC1DB0718CA291B008C7DEA /* Configuration */,
 				EC19121A162FB53A00E0CC76 /* Frameworks */,
 				EC191219162FB53A00E0CC76 /* Products */,
-				CD38BFD00B29456D9B40D640 /* Pods-pop-tests.xcconfig */,
-				D49ED131870840178CA788F1 /* Pods-pop-tests-osx.xcconfig */,
+				4372557D5165714123EC6D70 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -460,8 +480,8 @@
 			children = (
 				EC191218162FB53A00E0CC76 /* libpop.a */,
 				EC68857F18C7B60000C6194C /* pop.framework */,
-				ECF01ED318C92B7F009E0AD1 /* pop-tests.octest */,
-				EC7E319918C93D6500B38170 /* pop-tests-osx.octest */,
+				ECF01ED318C92B7F009E0AD1 /* pop-tests.xctest */,
+				EC7E319918C93D6500B38170 /* pop-tests-osx.xctest */,
 				0B6BE74819FFD3B900762101 /* pop.framework */,
 			);
 			name = Products;
@@ -934,8 +954,8 @@
 			);
 			name = "pop-tests-osx";
 			productName = "pop-tests-osx";
-			productReference = EC7E319918C93D6500B38170 /* pop-tests-osx.octest */;
-			productType = "com.apple.product-type.bundle.ocunit-test";
+			productReference = EC7E319918C93D6500B38170 /* pop-tests-osx.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		ECF01ED218C92B7F009E0AD1 /* pop-tests */ = {
 			isa = PBXNativeTarget;
@@ -954,8 +974,8 @@
 			);
 			name = "pop-tests";
 			productName = "pop-tests";
-			productReference = ECF01ED318C92B7F009E0AD1 /* pop-tests.octest */;
-			productType = "com.apple.product-type.bundle.ocunit-test";
+			productReference = ECF01ED318C92B7F009E0AD1 /* pop-tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -1045,7 +1065,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Pods-pop-tests-osx-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-pop-tests-osx/Pods-pop-tests-osx-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		093AEF8FEE094AECB5EDCED2 /* Check Pods Manifest.lock */ = {
@@ -1090,7 +1110,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Pods-pop-tests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-pop-tests/Pods-pop-tests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -1584,7 +1604,7 @@
 		};
 		EC7E31A718C93D6600B38170 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D49ED131870840178CA788F1 /* Pods-pop-tests-osx.xcconfig */;
+			baseConfigurationReference = 9BBD2916A451976950B4C1F6 /* Pods-pop-tests-osx.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1627,13 +1647,12 @@
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "pop-tests-osx";
 				SDKROOT = macosx;
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
 		};
 		EC7E31A818C93D6600B38170 /* GCOV */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D49ED131870840178CA788F1 /* Pods-pop-tests-osx.xcconfig */;
+			baseConfigurationReference = 7628E8427F4090DD496F92B1 /* Pods-pop-tests-osx.gcov.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1670,13 +1689,12 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "pop-tests-osx";
 				SDKROOT = macosx;
-				WRAPPER_EXTENSION = octest;
 			};
 			name = GCOV;
 		};
 		EC7E31A918C93D6600B38170 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D49ED131870840178CA788F1 /* Pods-pop-tests-osx.xcconfig */;
+			baseConfigurationReference = 7BDD7D9C2D2C9AC55E295CD0 /* Pods-pop-tests-osx.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1713,13 +1731,12 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "pop-tests-osx";
 				SDKROOT = macosx;
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
 		};
 		EC7E31AA18C93D6600B38170 /* Profile */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D49ED131870840178CA788F1 /* Pods-pop-tests-osx.xcconfig */;
+			baseConfigurationReference = 7D469990AA7D05FB882F89FC /* Pods-pop-tests-osx.profile.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1756,13 +1773,12 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_NAME = "pop-tests-osx";
 				SDKROOT = macosx;
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Profile;
 		};
 		ECF01EE318C92B80009E0AD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CD38BFD00B29456D9B40D640 /* Pods-pop-tests.xcconfig */;
+			baseConfigurationReference = 4F4245BFB89B6239FE145E69 /* Pods-pop-tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1798,13 +1814,12 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "pop-tests";
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Debug;
 		};
 		ECF01EE418C92B80009E0AD1 /* GCOV */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CD38BFD00B29456D9B40D640 /* Pods-pop-tests.xcconfig */;
+			baseConfigurationReference = 408E6FF86BDD3F47FC44BF6A /* Pods-pop-tests.gcov.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1836,13 +1851,12 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "pop-tests";
-				WRAPPER_EXTENSION = octest;
 			};
 			name = GCOV;
 		};
 		ECF01EE518C92B80009E0AD1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CD38BFD00B29456D9B40D640 /* Pods-pop-tests.xcconfig */;
+			baseConfigurationReference = C5794B0CC3DBDE8D02CF112A /* Pods-pop-tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1874,13 +1888,12 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "pop-tests";
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Release;
 		};
 		ECF01EE618C92B80009E0AD1 /* Profile */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CD38BFD00B29456D9B40D640 /* Pods-pop-tests.xcconfig */;
+			baseConfigurationReference = 3606F0C22CF0EB387E8AC270 /* Pods-pop-tests.profile.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -1912,7 +1925,6 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "pop-tests";
-				WRAPPER_EXTENSION = octest;
 			};
 			name = Profile;
 		};

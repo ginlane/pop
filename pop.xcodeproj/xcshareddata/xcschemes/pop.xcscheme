@@ -29,7 +29,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ECF01ED218C92B7F009E0AD1"
-               BuildableName = "pop-tests.octest"
+               BuildableName = "pop-tests.xctest"
                BlueprintName = "pop-tests"
                ReferencedContainer = "container:pop.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ECF01ED218C92B7F009E0AD1"
-               BuildableName = "pop-tests.octest"
+               BuildableName = "pop-tests.xctest"
                BlueprintName = "pop-tests"
                ReferencedContainer = "container:pop.xcodeproj">
             </BuildableReference>
@@ -61,7 +61,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ECF01ED218C92B7F009E0AD1"
-               BuildableName = "pop-tests.octest"
+               BuildableName = "pop-tests.xctest"
                BlueprintName = "pop-tests"
                ReferencedContainer = "container:pop.xcodeproj">
             </BuildableReference>
